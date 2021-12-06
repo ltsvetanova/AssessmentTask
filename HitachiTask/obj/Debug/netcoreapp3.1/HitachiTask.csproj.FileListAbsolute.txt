@@ -1,0 +1,67 @@
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.exe
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.deps.json
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.runtimeconfig.json
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.runtimeconfig.dev.json
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.dll
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.pdb
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.AssemblyInfoInputs.cache
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.AssemblyInfo.cs
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.CoreCompileInputs.cache
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.dll
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.pdb
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.genruntimeconfig.cache
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.CopyComplete
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.AssemblyReference.cache
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\HitachiTask\HitachiTask\bin\Debug\netcoreapp3.1\Dnp.dll
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.exe
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.deps.json
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.runtimeconfig.json
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.runtimeconfig.dev.json
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.dll
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.pdb
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\Dnp.dll
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.AssemblyReference.cache
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.AssemblyInfoInputs.cache
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.AssemblyInfo.cs
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.CoreCompileInputs.cache
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.CopyComplete
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.dll
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.pdb
+C:\Users\Liliya\Desktop\Application\Final\Applied\Hitachi Solutions\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.genruntimeconfig.cache
+D:\TestProject\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.exe
+D:\TestProject\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.deps.json
+D:\TestProject\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.runtimeconfig.json
+D:\TestProject\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.runtimeconfig.dev.json
+D:\TestProject\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.dll
+D:\TestProject\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.pdb
+D:\TestProject\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\TestProject\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\Dnp.dll
+D:\TestProject\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.AssemblyReference.cache
+D:\TestProject\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProject\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.AssemblyInfoInputs.cache
+D:\TestProject\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.AssemblyInfo.cs
+D:\TestProject\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.CoreCompileInputs.cache
+D:\TestProject\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.CopyComplete
+D:\TestProject\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.dll
+D:\TestProject\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.pdb
+D:\TestProject\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.genruntimeconfig.cache
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.exe
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.deps.json
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.runtimeconfig.json
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.runtimeconfig.dev.json
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.dll
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\HitachiTask.pdb
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\bin\Debug\netcoreapp3.1\Dnp.dll
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.AssemblyInfoInputs.cache
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.AssemblyInfo.cs
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.CoreCompileInputs.cache
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.csproj.CopyComplete
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.dll
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.pdb
+D:\TestProject\NewTest\AssessmentTask\HitachiTask\obj\Debug\netcoreapp3.1\HitachiTask.genruntimeconfig.cache
